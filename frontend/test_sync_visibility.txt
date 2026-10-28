@@ -1,0 +1,5 @@
+STATION_LEADER -> Force Sync visible: true
+LOGISTICS_ENGINEERING_OFFICER -> Force Sync visible: true
+CHIEF_SCIENTIST -> Force Sync visible: true
+MEDICAL_OFFICER -> Force Sync visible: true
+FIELD_TEAM_MEMBER -> Force Sync visible: true

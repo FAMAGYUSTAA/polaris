@@ -1,0 +1,22 @@
+{
+  "name": "polar-logistics-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Offline-first React PWA for the Polar Expedition Logistics System (SIH 26062)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dexie": "^4.0.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7",
+    "vite-plugin-pwa": "^1.3.0"
+  }
+}
